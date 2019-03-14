@@ -1,0 +1,62 @@
+.img {
+	text-align: center;
+	width: 50%;
+	height: 50%;
+}
+
+header {
+	padding-bottom: 10px;
+}
+
+.global {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	text-align: right;
+
+}
+
+.global > li {
+	display: inline-block;
+	width: 100px;
+	vertical-align: middle;
+}
+
+.sab {
+	display: inline-block;
+
+}
+
+.sab1, .sab2,.sab3 {
+	text-align: center;
+	border: 1px solid #fff;
+	display: block;
+}
+
+
+
+.main {
+	display: inline-block;
+
+}
+
+header {
+	display: in;
+}
+
+
+.contents{
+	display: inline-block;
+
+}
+
+.soudan {
+	display: inline-block;
+
+    
+}
+
+.under {
+	display: block;
+
+}
